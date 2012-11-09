@@ -3,3 +3,10 @@ mark:
   last_name: "Swan"
   email: "ms.freemind@gmail.com"
   profile_name: "msfreemind"
+
+bill:
+  first_name: "Bill"
+  last_name: "O'Reilly"
+  email: "hercules1@gmail.com"
+  profile_name: "billy"
+  
